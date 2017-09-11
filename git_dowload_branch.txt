@@ -1,3 +1,4 @@
+#this command is used to download code from some branch in someone else's code
 git remote add theirusername https://github.com/theirusernam/reponame
 git fetch theirusername
 git checkout -b mynamefortheirbranch theirusername/theirbranch
